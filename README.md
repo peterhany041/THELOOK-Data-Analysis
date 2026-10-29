@@ -1,17 +1,31 @@
 # THELOOK — Business Performance Dashboard
 
-An interactive, multi-page Excel dashboard built to explore business performance across products, customers, marketing, inventory, and shipping operations.
+An interactive, multi-page Excel dashboard built to explore business performance across sales, products, customers, marketing, inventory, and shipping operations.
 
 ## Project Overview
 
-THELOOK demonstrates how Microsoft Excel can transform business data into clear performance indicators and actionable insights. The dashboard is organized into four analytical pages, helping stakeholders explore different parts of the business.
+THELOOK demonstrates how Microsoft Excel can transform business data into clear performance indicators and actionable insights. The dashboard is organized into four analytical pages.
+
+## Dashboard Preview
+
+### 1. Business Overview
+![THELOOK Business Overview](01-Business-Overview.png)
+
+### 2. Customer & Marketing
+![THELOOK Customer and Marketing Dashboard](02-Customer-Marketing.png)
+
+### 3. Product Performance
+![THELOOK Product Performance Dashboard](03-Product-Performance.png)
+
+### 4. Shipping & Operations
+![THELOOK Shipping and Operations Dashboard](04-Shipping-Operations.png)
 
 ## Dashboard Pages
 
-1. **Business Overview** — high-level KPIs and an overall view of business performance.
-2. **Product Performance** — product and category analysis to compare performance and support assortment decisions.
-3. **Customer & Marketing Analytics** — customer-focused metrics and marketing analysis.
-4. **Shipping & Operations** — operational and shipping indicators to help identify areas for process improvement.
+1. **Business Overview** — high-level KPIs, sales trend, order status, top products, and sales by department.
+2. **Customer & Marketing Analytics** — customer demographics, traffic sources, age groups, and event activity.
+3. **Product Performance** — product/category sales, average prices, and product distribution by department.
+4. **Shipping & Operations** — inventory indicators, inventory status, annual sales trend, and in-stock inventory cost by category.
 
 ## Tools & Techniques
 
@@ -24,8 +38,9 @@ THELOOK demonstrates how Microsoft Excel can transform business data into clear 
 
 ## Business Questions
 
-- Which products and categories deserve closer attention?
-- How does performance vary across customer and marketing segments?
+- How is overall sales performance changing over time?
+- Which products and categories contribute most to sales?
+- How do customer segments and traffic sources differ?
 - What inventory patterns may require operational action?
 - Where could shipping and fulfillment processes be improved?
 
@@ -42,22 +57,10 @@ THELOOK demonstrates how Microsoft Excel can transform business data into clear 
 
 Before publishing conclusions, verify that KPI formulas match the underlying PivotTables and charts. In particular, reconcile the **Out of Stock** KPI with the inventory-status breakdown, and confirm whether the 2024 reporting period is complete before concluding that sales declined.
 
-## Repository Structure
-
-```text
-THELOOK-Data-Analysis/
-├── README.md
-├── Dashboard/
-│   └── Excel workbook (to be added)
-├── Screenshots/
-│   └── Dashboard screenshots (to be added)
-└── Recommendations/
-    └── Business recommendations document (to be added)
-```
-
 ## Project Files
 
-The Excel workbook, dashboard screenshots, and detailed business recommendations will be added to this repository as they are prepared for publication.
+- [Business Recommendations](THELOOK_Business_Recommendations.docx)
+- Excel workbook: to be added after preparing an upload-compatible version.
 
 ## Disclaimer
 
