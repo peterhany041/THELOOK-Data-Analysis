@@ -59,8 +59,8 @@ Before publishing conclusions, verify that KPI formulas match the underlying Piv
 
 ## Project Files
 
+- [Download the Excel Dashboard Workbook (.xlsm)](Data%20Invntory.xlsm) — includes the interactive dashboard and Excel Data Model.
 - [Business Recommendations](THELOOK_Business_Recommendations.docx)
-- Excel workbook: to be added after preparing an upload-compatible version.
 
 ## Disclaimer
 
